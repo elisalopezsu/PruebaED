@@ -10,7 +10,7 @@ public class Perro
 	private int edad;
 	private String color;
 	
-	// CONSTRUCTOR VACÍO
+	// CONSTRUCTOR VACÍO O POR DEFECTO
 	
 	public Perro() {
 		raza = new Raza();
